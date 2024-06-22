@@ -1,23 +1,23 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/Roshan78m/Patadoxanime",
+        "branch": "Sahil",
         "env": {
             "TOKEN": ""
         },
         "run": ""
     },
     "bot2": {
-        "source": "https://github.com/<GitHub Username>/<repo2>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/Roshan78m/File-Store-Bot-Token-Verification",
+        "branch": "main",
         "env": {
             "TOKEN": ""
         },
         "run": ""
     },
     "bot3": {
-        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/Roshan78m/FileStore",
+        "branch": "Autodelete",
         "env": {
             "TOKEN": ""
         },
