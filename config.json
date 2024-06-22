@@ -5,7 +5,7 @@
         "env": {
             "TOKEN": ""
         },
-        "run": ""
+        "run": "main.py"
     },
     "bot2": {
         "source": "https://github.com/Roshan78m/File-Store-Bot-Token-Verification",
@@ -13,7 +13,7 @@
         "env": {
             "TOKEN": ""
         },
-        "run": ""
+        "run": "main.py"
     },
     "bot3": {
         "source": "https://github.com/Roshan78m/FileStore",
@@ -21,6 +21,6 @@
         "env": {
             "TOKEN": ""
         },
-        "run": ""
+        "run": "main.py"
     }
 }
