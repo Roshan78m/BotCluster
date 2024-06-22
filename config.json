@@ -17,7 +17,7 @@
     },
     "bot3": {
         "source": "https://github.com/Roshan78m/FileStore",
-        "branch": "Autodelete",
+        "branch": "AutoDelete",
         "env": {
             "TOKEN": ""
         },
